@@ -1,0 +1,5 @@
+- adiciona para staging o arquivo README.md
+git add README.md
+
+- o git status mostra o estado
+git status

@@ -1,0 +1,5 @@
+Passo1 - criar a pasta "meu-primeiro-repo"
+
+Passo2 - git init dentro da pasta criada anteriormente
+
+Passo3 - git status para verificar o status

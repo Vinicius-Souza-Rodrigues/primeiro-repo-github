@@ -1,0 +1,32 @@
+commits feitos:
+
+9
+
+todos os arquivos que foram commitados:
+
+.gitignore
+README.md
+arquivo1.txt
+arquivo2.txt
+codigo/projeto.txt
+codigo/referencias.txt
+docs/auxiliar.txt
+docs/principal.txt
+tarefas.txt
+
+estrutura final do projeto
+
+resumo-final.txt
+teste.log
+.gitignore
+historio-analise.txt
+tarefas.txt
+exercicio3.txt
+arquivo2.txt
+arquivo1.txt
+README.md
+estados-git.txt
+exercicio1.txt
+.git
+docs/
+código/

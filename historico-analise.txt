@@ -1,0 +1,19 @@
+git log:
+
+mostra todos os commits em detalhes
+
+git log --oneline:
+
+resume todos os commits em 1 por linha
+
+git log --oneline --graph;
+
+resume todos com um gra
+
+git log -n <n>:
+
+mostra os últimos <n> commits
+
+git log --author="<seu nome>:
+
+mostra todos os commits do <seu nome>

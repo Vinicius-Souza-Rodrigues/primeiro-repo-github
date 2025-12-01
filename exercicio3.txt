@@ -1,0 +1,64 @@
+git log:
+
+PS C:\Users\Vinicius\Downloads\meu-primeiro-repo> git log
+commit 336c86151bd25493abc74db96076aa185716cbdf (HEAD -> master)
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 08:22:51 2025 -0300
+
+    Adiciona README inicial do projeto
+
+commit 4cc5fc65aa37e657e61d1b0d9715ddbd1145ac51
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 07:55:17 2025 -0300
+
+    teste
+
+-----------------------------------------------------------------------------------------------------------------
+
+git show:
+
+PS C:\Users\Vinicius\Downloads\meu-primeiro-repo> git show
+commit 336c86151bd25493abc74db96076aa185716cbdf (HEAD -> master)
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 08:22:51 2025 -0300
+
+    Adiciona README inicial do projeto
+
+diff --git a/README.md b/README.md
+index 7da4086..e86faf1 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1 @@
+-# Meu Primeiro Repositório Git
+\ No newline at end of file
++# Meu Primeiro Repositório Git.
+\ No newline at end of file
+
+-------------------------------------------------------------------------------------------------------------------
+
+git add arquivo1.txt arquivo2.txt
+
+git commit -m "feat/adicionado-com-sucesso-os-arquivos1.txt-e-arquivos2.txt"
+
+git log:
+
+PS C:\Users\Vinicius\Downloads\meu-primeiro-repo> git log
+commit ef87cc2d3356a699431033ca0a883e7c8c5f836c (HEAD -> master)
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 08:30:01 2025 -0300
+
+    feat/adicionado-com-sucesso-os-arquivos1.txt-e-arquivos2.txt
+
+commit 336c86151bd25493abc74db96076aa185716cbdf
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 08:22:51 2025 -0300
+
+    Adiciona README inicial do projeto
+
+commit 4cc5fc65aa37e657e61d1b0d9715ddbd1145ac51
+Author: vinicius <vinicanal604@gmail.com>
+Date:   Mon Dec 1 07:55:17 2025 -0300
+
+    teste
+
+---------------------------------------------------------------------------------------------------------------------

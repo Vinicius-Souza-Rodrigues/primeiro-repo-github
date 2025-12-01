@@ -1,0 +1,5 @@
+auxiliar1
+auxiliar2
+auxiliar3
+
+auxiliar4

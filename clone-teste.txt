@@ -1,0 +1,20 @@
+git clone:
+
+clona o repositório remoto no local
+
+local: Você cria o projeto do zero com o .init, não tem outras versões e nenhum commit passado.
+
+clonar: Você pega uma copia de um projeto já existente, podendo ver o historio de versões e commits
+
+Comandos utilizados:
+
+git clone
+
+git status
+
+git diff
+
+git remote -v
+
+git log 
+

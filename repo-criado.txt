@@ -1,0 +1,5 @@
+Nome do repositorio: primeiro-repo-GitHub
+
+URL HTTPS: https://github.com/Vinicius-Souza-Rodrigues/primeiro-repo-github
+
+URL SSH: git@github.com:Vinicius-Souza-Rodrigues/primeiro-repo-github.git
